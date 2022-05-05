@@ -2,7 +2,7 @@
 title: Titres
 parent: 3. Règles d'alignement
 has_children: false
-nav_order: 4
+nav_order: 3
 permalink: /titres
 ---
 
@@ -14,8 +14,8 @@ Ces procédures sont en cours de discussion par le groupe de travail Ouali et so
 
 ## Alignement d'une oeuvre vers un nom commun
 
-Selon les règles d'indexation RERO, les oeuvres (statues, oeuvres d'art, mais aussi navires, etc.) étaient considérées
-comme des titres. Dans IdRef, les oeuvres sont considérées comme des noms communs. Dans ce cas de figure, il est donc
+Selon les règles d'indexation RERO, les oeuvres plastiques et autres objets (statues, navires, etc.) étaient considérées
+comme des titres. Dans IdRef (Rameau), les oeuvres sont considérées comme des noms communs. Dans ce cas de figure, il est donc
 approprié d'aligner une source de type titre vers une cible de type nom commun.
 
 ### Exemple
